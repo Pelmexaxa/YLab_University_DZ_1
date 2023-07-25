@@ -8,7 +8,7 @@
 Клонируем репозиторий заходим в директорию
 
 ```bash
-  git clone [https://github.com/Pelmexaxa/YLab_University_DZ_1.git](https://github.com/Pelmexaxa/YLab_University_DZ_1.git)
+  git clone https://github.com/Pelmexaxa/YLab_University_DZ_1.git
   cd .\YLab_University_DZ_1\
 ```
 
